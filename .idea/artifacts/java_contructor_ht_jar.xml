@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="java_contructor_ht:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/java_contructor_ht_jar</output-path>
+    <root id="archive" name="java_contructor_ht.jar">
+      <element id="module-output" name="java_contructor_ht" />
+    </root>
+  </artifact>
+</component>
